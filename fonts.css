@@ -1,0 +1,72 @@
+/* Centra No.1 */
+@font-face {
+    font-family: 'Centra No1';
+    src: url('https://therkarlsen.github.io/Fonts/CentraNo.1-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Centra No1';
+    src: url('https://therkarlsen.github.io/Fonts/CentraNo.1-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Centra No1';
+    src: url('https://therkarlsen.github.io/Fonts/CentraNo.1-ExtraBold.woff2') format('woff2');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Centra No1';
+    src: url('https://therkarlsen.github.io/Fonts/CentraNo.1-ExtraBoldItalic.woff2') format('woff2');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Centra No1';
+    src: url('https://therkarlsen.github.io/Fonts/CentraNo.1-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Centra No1';
+    src: url('https://therkarlsen.github.io/Fonts/CentraNo.1-MediumItalic.woff2') format('woff2');
+    font-weight: 500;
+    font-style: italic;
+}
+
+/* Maison Neue */
+@font-face {
+    font-family: 'Maison Neue';
+    src: url('https://therkarlsen.github.io/Fonts/MaisonNeue-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Maison Neue';
+    src: url('https://therkarlsen.github.io/Fonts/MaisonNeue-Book.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Maison Neue';
+    src: url('https://therkarlsen.github.io/Fonts/MaisonNeue-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* URW Type Foundry - Signal No2D */
+@font-face {
+    font-family: 'Signal No2D';
+    src: url('https://therkarlsen.github.io/Fonts/URW%20Type%20Foundry%20-%20SignalNo2D.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
